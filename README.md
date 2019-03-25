@@ -1,3 +1,13 @@
+# Notes App
+
+The main purpose of this project was for me to practice Javascript. The only file that has my unique code is mainAssets/js/notes.js. All the rest is a template I borrowed from HTML5 UP. I made modifications to index.html as well to allow for easier manipulation of the DOM with JavaScript.
+
+
+
+
+I borrowed the design, styles, and markup from HTML5 up. Their info is below.
+
+---
 Editorial by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
